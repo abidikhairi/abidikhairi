@@ -37,7 +37,7 @@ I aspire to work for some company and develop software that has a positive impac
 
 <br />
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abidikhairi&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abidikhairi&repo=realtime-analysis-tweets)](https://github.com/abidikhairi/realtime-analysis-tweets)
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer) -->
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward) -->
