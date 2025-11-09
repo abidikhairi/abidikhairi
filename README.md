@@ -1,53 +1,15 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
+## 👋 Hi, I'm Khairi Abidi  
+Data Scientist & PhD Student | Transitioning into NLP Engineering  
 
-### Hi there 👋 I am [Khairi ABIDI](https://github.com/abidikhairi)
+🚀 **Current Focus:** NLP with Transformers (Hugging Face, PyTorch)  
+🧬 PhD: Modeling the Language of Life – decoding protein mutations  
+💡 Interested in: LLMs, bioNLP, and generative modeling  
 
-<a href="https://www.linkedin.com/in/khairi-abidi/">
-  <img align="left" alt="Khairi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/abidikhairi/">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<br />
-<br />
+### 🔧 Tech Stack
+Python | PyTorch | Transformers | FastAPI | Spark | Docker
 
-<div>
- <p>
+### 📂 Featured Projects 
+- 🧬 [Life2Lang](link) — Transformer pipeline for protein understanding and generation.
+- 🧬 [DrugFlan](link) — Transformer encoder-decoder for drug discovery.
 
-Currently pursuing a Msc Degree in Computer Science.
-I aspire to work for some company and develop software that has a positive impace on Society. 
-
-</div>
-
-<div><p>My profile overview: </p></div>
-
-![Khairi's github stats](https://github-readme-stats.vercel.app/api?username=abidikhairi&show_icons=true)
-<br />
-<br />
-<br />
-
-
-<details>
-<summary>
-  Projects I am currently working on
-</summary>
-
-<br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abidikhairi&repo=realtime-analysis-tweets)](https://github.com/abidikhairi/realtime-analysis-tweets)
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abidikhairi&repo=textclassification)](https://github.com/abidikhairi/textclassification)
-
-<br />
-
-
-</details>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abidikhairi)
-
-Leave a ⭐️ if you like this template and want to modify it for yourself!
-----
-
-Markdown Template: [ApurvShah007](https://github.com/ApurvShah007)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/khairi-abidi/) | [Email](abidikhairi.1337@gmail.com)
