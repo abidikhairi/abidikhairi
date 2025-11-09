@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Khairi Abidi  
 Data Scientist & PhD Student | Transitioning into NLP Engineering  
 
-🚀 **Current Focus:** Proteub Language Processing with Transformers (Hugging Face, PyTorch)  
+🚀 **Current Focus:** Protein Language Processing with Transformers (Hugging Face, PyTorch)  
 🧬 PhD: Modeling the Language of Life 
 💡 Interested in: LLMs, bioNLP, and generative language modeling  
 
